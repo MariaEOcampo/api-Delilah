@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5ea0762d64cdef1f2c351fa9"},"role":"admin","fullname":"Maria Ocampo","adress":"Colon 123","email":"maria@delilah.com","password":"$2b$10$0pCFaKz/lqn4cc2EVy1rLOvv0qpcB5g/UrArKPpfWb34TBjW2.Kxe","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ea0766264cdef1f2c351faa"},"role":"user","fullname":"Juan Perez","adress":"Libertad 456","email":"juan@gmail.com","password":"$2b$10$5WfukpgIlf1iu.GtKmlNT.xXgzFySxwyvXCr5/NCmvoE.jqmm9MWW","__v":{"$numberInt":"0"}}

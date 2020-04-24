@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5ea1f19e1f6ddf2c187a53bb"},"name":"Pizza Napolitana 8 porciones","price":{"$numberInt":"400"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ea1f1cd1f6ddf2c187a53bc"},"name":"Lomo Completo","price":{"$numberInt":"300"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ea1f1da1f6ddf2c187a53bd"},"name":"Milanesa Simple","price":{"$numberInt":"200"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5ea1f1ef1f6ddf2c187a53be"},"name":"Coca-Cola 1.5 l.","price":{"$numberInt":"150"},"__v":{"$numberInt":"0"}}
